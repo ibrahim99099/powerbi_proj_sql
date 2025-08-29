@@ -1,4 +1,4 @@
-# Power BI Dashboard – Formula 1 Power BI Dashboard Project
+# Formula 1 Power BI Dashboard Project
 
 ## 📊 Project Overview  
 This project contains a Power BI dashboard visualizing Formula 1 data including Championships, Circuits, Grand Prix Races, Teams, Drivers, and Race Results.
